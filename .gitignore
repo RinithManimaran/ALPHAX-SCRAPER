@@ -1,0 +1,9 @@
+.env
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Output spreadsheets contain real people's personal data --
+# don't let one slip into a public repo by accident.
+*.xlsx
